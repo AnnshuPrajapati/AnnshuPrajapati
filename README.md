@@ -4,7 +4,7 @@ I’m a Data Scientist who combines Machine Learning, NLP, and finance expertise
 
 🎓 Currently pursuing **Master of Science in Data Science** at Rutgers University (Expected Dec 2025)  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/annshuprajapati) ✉️ [Mail](mailto:your.email@example.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/annshu-prajapati/) ✉️ [Mail](mailto:your.email@example.com)
 
 ---
 
